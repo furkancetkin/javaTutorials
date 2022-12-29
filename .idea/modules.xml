@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/homework1/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/homework1/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/homework1/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/homework1/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaTutorials.iml" filepath="$PROJECT_DIR$/.idea/javaTutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/homework1/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/miniProjectPrimeNumber/miniProjectPrimeNumber.iml" filepath="$PROJECT_DIR$/homework1/miniProjectPrimeNumber/miniProjectPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/homework1/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/perfectNumber/perfectNumber.iml" filepath="$PROJECT_DIR$/homework1/perfectNumber/perfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/reCapDemo2/reCapDemo2.iml" filepath="$PROJECT_DIR$/homework1/reCapDemo2/reCapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/homework1/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/homework1/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/homework1/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework1/vowels/vowels.iml" filepath="$PROJECT_DIR$/homework1/vowels/vowels.iml" />
+    </modules>
+  </component>
+</project>
